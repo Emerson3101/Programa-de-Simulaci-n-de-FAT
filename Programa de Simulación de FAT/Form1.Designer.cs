@@ -280,9 +280,9 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(956, 462);
+            this.button2.Location = new System.Drawing.Point(1076, 459);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(299, 29);
+            this.button2.Size = new System.Drawing.Size(316, 29);
             this.button2.TabIndex = 22;
             this.button2.Text = "Limpiar Memoria";
             this.button2.UseVisualStyleBackColor = true;
@@ -303,7 +303,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(1404, 585);
+            this.ClientSize = new System.Drawing.Size(1431, 585);
             this.Controls.Add(this.label15);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.textBox4);
